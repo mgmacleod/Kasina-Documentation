@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    sodipodi:docname="OTLayouts.svg"
-   inkscape:export-filename="C:\development\code\MbGM-Documentation\img\OTLayoutsPlain.png"
+   inkscape:export-filename="C:\development\code\Kasina-Documentation\img\ot-layout.png"
    inkscape:export-xdpi="84.470001"
    inkscape:export-ydpi="84.470001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -454,19 +454,19 @@
          y="197.16795"
          id="tspan43402">Record</tspan></text>
     <rect
-       style="fill:none;stroke:#6426ea;stroke-width:0.893399;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#6426ea;stroke-width:0.927484;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect47525"
        width="193.40962"
-       height="53.4151"
+       height="57.568653"
        x="13.091535"
-       y="148.06767" />
+       y="143.91412" />
     <rect
-       style="fill:none;stroke:#c5fe17;stroke-width:0.846204;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#c5fe17;stroke-width:0.879465;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect52341"
        width="172.97099"
-       height="53.583126"
+       height="57.878204"
        x="207.53903"
-       y="148.14749" />
+       y="143.85242" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#6426ea;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
@@ -606,6 +606,90 @@
          style="font-size:3.52778px;fill:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
          x="364.39856"
          y="186.58424">Shift</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect978"
+       width="17.520618"
+       height="15.309278"
+       x="81.309273"
+       y="146.59476" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.779823"
+       y="150.26164"
+       id="text986"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="83.779823"
+         y="150.26164"
+         id="tspan984">Enter</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="83.779823"
+         y="155.5533"
+         id="tspan4496">FX</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="83.779823"
+         y="160.84497"
+         id="tspan4498">Slot</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7118"
+       width="17.520618"
+       height="15.309278"
+       x="317.75259"
+       y="146.78372" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="320.41574"
+       y="150.88506"
+       id="text7126"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="320.41574"
+         y="150.88506"
+         id="tspan7124">Exit</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="320.41574"
+         y="156.17671"
+         id="tspan13059">Group</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="320.41574"
+         y="161.46838"
+         id="tspan13061">Track</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7128"
+       width="17.520618"
+       height="15.309278"
+       x="339.01547"
+       y="146.78372" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="342.11157"
+       y="150.88506"
+       id="text7136"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="342.11157"
+         y="150.88506"
+         id="tspan7134">Enter</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="342.11157"
+         y="156.17671"
+         id="tspan10158">Group</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="342.11157"
+         y="161.46838"
+         id="tspan10160">Track</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
